@@ -1,0 +1,17 @@
+.main {
+  border: 2px solid black;
+  width: 500px;
+  margin: 50px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  margin: 25px;
+}
+
+#count {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
